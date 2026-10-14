@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+#
 
 # Marcelo Duarte Lima
 
@@ -8,8 +15,16 @@ Minha história com a tecnologia começou cedo. Como uma pessoa no espectro auti
 Essa curiosidade virou minha escolha de vida. Já fiz parte do curso de Redes de Computadores e hoje estou cursando Ciência da Computação.
 
 Meu objetivo é transformar essa paixão de infância em carreira, atuando com desenvolvimento de software e aplicando meu foco e raciocínio lógico em desafios reais da área.
+ 
+#
 
-### 🤖 Linguagens e Tecnologias
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:marceloduartelima231@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
+
+
+<h3 align="left">My Stack ~</h3>
 
 <img 
     align="left" 
@@ -21,20 +36,30 @@ Meu objetivo é transformar essa paixão de infância em carreira, atuando com d
 />
 <img 
     align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+
+<img
+    align="left"
+    alt="Github"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -43,6 +68,7 @@ Meu objetivo é transformar essa paixão de infância em carreira, atuando com d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -52,80 +78,39 @@ Meu objetivo é transformar essa paixão de infância em carreira, atuando com d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img  
-    align="left" 
-    alt=".Net" 
-    title=".Net"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-  
-<img 
-    align="left" 
-    alt="SQLserver" 
-    title="SQLserver"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
-/>
-
 <img
-    align="left" 
-    alt="MYSQL" 
-    title="MYSQL"
+    align="left"
+    alt="Vercel"
+    title="Vercel"
     width="30px"
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
 />
+<br/>
+<br/>
 
-<img 
+<h3 align="left">GitHub Stats</h3>
+
+<p>
+  <img 
     align="left" 
-    alt="Github" 
-    title="Github"
-    width="30px"
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
-    />
-    
-<img 
-    align="left" 
-    alt="Gitlab" 
-    title="Gitlab"
-    width="30px"
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
-    />
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=paulopontodev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+  />
 
 <img 
-    align="Azure" 
-    alt="Azure" 
-    title="Azure"
-    width="30px"
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-    />
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
 
-📊 **Essa semana passei meu tempo:** 
+</p>
 
-```text
-💬 Linguagens de programação: 
-Python                    80 mins            █████████████████████████   98.30 % 
-HTML                      90 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   76.70 % 
-
-🔥 Editores: 
-Pycharm                  80 mins             ███████████████████████░░   93.48 % 
-Claude Code              50 mins             ██████████░                 50.00 % 
-
-💻 Sistema operacional: 
-Windows                      31 mins         █████████████████████████   100.00 % 
-```
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+</picture>
