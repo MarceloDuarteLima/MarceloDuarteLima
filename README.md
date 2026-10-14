@@ -119,22 +119,13 @@ Meu objetivo é transformar essa paixão de infância em carreira, atuando com d
 
 ```text
 💬 Linguagens de programação: 
-Python                    894 mins           █████████████████████████   98.30 % 
-HTML                      592 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   76.70 % 
+Python                    80 mins            █████████████████████████   98.30 % 
+HTML                      90 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   76.70 % 
 
 🔥 Editores: 
-Pycharm                  669 mins            ███████████████████████░░   93.48 % 
+Pycharm                  80 mins             ███████████████████████░░   93.48 % 
 Claude Code              50 mins             ██████████░                 50.00 % 
 
 💻 Sistema operacional: 
 Windows                      31 mins         █████████████████████████   100.00 % 
-```
-### 🤖 Linguagens e Tecnologias
-
-Fable                    1,122 linhas         █████████████████████████   100.00 %
-
-**Python time coding**
-
-Python                   47 repos             ███████████████████████████   98.74 %  
-HTML                     22 repos             ███████████    50.89 % 
 ```
