@@ -10,7 +10,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Minha história com a tecnologia começou cedo. Como uma pessoa no espectro autista (TEA), sempre fui muito curioso. Quando criança, eu ia pro trabalho do meu pai, que é analista de sistemas, e ficava jogando World of Warcraft do lado dele enquanto ele programava. Ver aquilo no dia a dia fez o gosto pela computação nascer de forma muito natural.
+Minha história com a tecnologia começou cedo. sempre fui muito curioso. Quando criança, eu ia pro trabalho do meu pai, que é analista de sistemas, e ficava jogando World of Warcraft do lado dele enquanto ele programava. Ver aquilo no dia a dia fez o gosto pela computação nascer de forma muito natural.
 
 Essa curiosidade virou minha escolha de vida. Já fiz parte do curso de Redes de Computadores e hoje estou cursando Ciência da Computação.
 
@@ -24,7 +24,7 @@ Meu objetivo é transformar essa paixão de infância em carreira, atuando com d
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
 
 
-<h3 align="left">My Stack ~</h3>
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -36,30 +36,20 @@ Meu objetivo é transformar essa paixão de infância em carreira, atuando com d
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-<img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -68,7 +58,6 @@ Meu objetivo é transformar essa paixão de infância em carreira, atuando com d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Python" 
@@ -78,14 +67,68 @@ Meu objetivo é transformar essa paixão de infância em carreira, atuando com d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img
-    align="left"
-    alt="Vercel"
-    title="Vercel"
+<img  
+    align="left" 
+    alt=".Net" 
+    title=".Net"
     width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" 
 />
+
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+  
+<img 
+    align="left" 
+    alt="SQLserver" 
+    title="SQLserver"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="MYSQL" 
+    title="MYSQL"
+    width="30px"
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px"
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
+    />
+    
+<img 
+    align="left" 
+    alt="Gitlab" 
+    title="Gitlab"
+    width="30px"
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+    />
+
+<img 
+    align="Azure" 
+    alt="Azure" 
+    title="Azure"
+    width="30px"
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+    />
 <br/>
 <br/>
 
@@ -97,14 +140,14 @@ Meu objetivo é transformar essa paixão de infância em carreira, atuando com d
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=paulopontodev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=MarceloDuarteLima&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats-lac-one-16.vercel.app/api/top-langs/?username=MarceloDuarteLima&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 
 </p>
