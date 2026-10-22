@@ -4,45 +4,139 @@
   </a>
 </div>
 
----
+#
 
 # Marcelo Duarte Lima
 
 **`Desenvolvedor Back-End`**
 
-Minha história com a tecnologia começou cedo. Sempre fui muito curioso. Quando criança, eu ia pro trabalho do meu pai, que é analista de sistemas, e ficava jogando World of Warcraft do lado dele enquanto ele programava. Ver aquilo no dia a dia fez o gosto pela computação nascer de forma muito natural.
+Minha história com a tecnologia começou cedo. sempre fui muito curioso. Quando criança, eu ia pro trabalho do meu pai, que é analista de sistemas, e ficava jogando World of Warcraft do lado dele enquanto ele programava. Ver aquilo no dia a dia fez o gosto pela computação nascer de forma muito natural.
 
 Essa curiosidade virou minha escolha de vida. Já fiz parte do curso de Redes de Computadores e hoje estou cursando Ciência da Computação.
 
 Meu objetivo é transformar essa paixão de infância em carreira, atuando com desenvolvimento de software e aplicando meu foco e raciocínio lógico em desafios reais da área.
+ 
+#
 
----
+<h3 align="left">Connect with me!</h3>
 
-### Connect with me!
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color=FFF)](https://mail.google.com/mail/?view=cm&to=marceloduartelima231@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:marceloduartelima231@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/marceloduarte/)
 
 ### 🤖 Linguagens e Tecnologias
 
-<img alt="HTML" title="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-<img alt="JavaScript" title="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-<img alt="SASS" title="SASS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />&nbsp;&nbsp;
-<img alt="Git" title="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
-<img alt="Python" title="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
-<img alt=".NET" title=".NET" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />&nbsp;&nbsp;
-<img alt="C#" title="C#" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
-<img alt="SQL Server" title="SQL Server" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />&nbsp;&nbsp;
-<img alt="MySQL" title="MySQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
-<img alt="GitHub" title="GitHub" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />&nbsp;&nbsp;
-<img alt="GitLab" title="GitLab" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />&nbsp;&nbsp;
-<img alt="Azure" title="Azure" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img  
+    align="left" 
+    alt=".Net" 
+    title=".Net"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+  
+<img 
+    align="left" 
+    alt="SQLserver" 
+    title="SQLserver"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="MYSQL" 
+    title="MYSQL"
+    width="30px"
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px"
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
+    />
+    
+<img 
+    align="left" 
+    alt="Gitlab" 
+    title="Gitlab"
+    width="30px"
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+    />
+
+<img 
+    align="Azure" 
+    alt="Azure" 
+    title="Azure"
+    width="30px"
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+    />
+<br/>
+<br/>
 
 ### GitHub Stats
 
 <p>
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=MarceloDuarteLima&show_icons=true&locale=pt_BR&hide=contribs&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&custom_title=My%20GitHub%20Statistics" />
-  <img alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloDuarteLima&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
+  <img alt="GitHub Stats" height="200" src="https://github-readme-stats-lac-one-16.vercel.app/api?username=MarceloDuarteLima&show_icons=true&locale=pt-br&hide=contribs&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />
+  <img alt="Top Languages" height="200" src="https://github-readme-stats-lac-one-16.vercel.app/api/top-langs/?username=MarceloDuarteLima&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
 </p>
 
 <br clear="left"/>
