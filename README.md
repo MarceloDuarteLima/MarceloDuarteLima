@@ -10,7 +10,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Minha história com a tecnologia começou cedo. sempre fui muito curioso. Quando criança, eu ia pro trabalho do meu pai, que é analista de sistemas, e ficava jogando World of Warcraft do lado dele enquanto ele programava. Ver aquilo no dia a dia fez o gosto pela computação nascer de forma muito natural.
+Minha história com a tecnologia começou cedo. Sempre fui muito curioso. Quando criança, eu ia pro trabalho do meu pai, que é analista de sistemas, e ficava jogando World of Warcraft do lado dele enquanto ele programava. Ver aquilo no dia a dia fez o gosto pela computação nascer de forma muito natural.
 
 Essa curiosidade virou minha escolha de vida. Já fiz parte do curso de Redes de Computadores e hoje estou cursando Ciência da Computação.
 
