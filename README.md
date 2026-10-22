@@ -21,8 +21,7 @@ Meu objetivo é transformar essa paixão de infância em carreira, atuando com d
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color=FFF)](https://mail.google.com/mail/?view=cm&to=marceloduartelima231@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/marceloduarte)
 
 ### 🤖 Linguagens e Tecnologias
 
