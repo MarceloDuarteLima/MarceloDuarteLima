@@ -14,7 +14,7 @@ Minha história com a tecnologia começou cedo. Sempre fui muito curioso. Quando
 
 Essa curiosidade virou minha escolha de vida. Já fiz parte do curso de Redes de Computadores e hoje estou cursando Ciência da Computação.
 
-Meu objetivo é transformar essa paixão de infância em carreira, atuando com desenvolvimento de software e aplicando meu foco e raciocínio lógico em desafios reais da área.
+Meu objetivo é transformar essa paixão de infância em carreira, atuando na área de TI com foco em redes e cibersegurança, aplicando meu raciocínio lógico em desafios reais da área.
 
 ---
 
