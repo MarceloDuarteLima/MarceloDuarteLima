@@ -8,7 +8,7 @@
 
 # Marcelo Duarte Lima
 
-**`Estudante de Ciência da Computação | Redes e Cibersegurança`**
+**`Estudante de Ciência da Computação | Redes, Cibersegurança e Desenvolvimento`**
 
 Minha história com a tecnologia começou cedo. Sempre fui muito curioso. Quando criança, eu ia pro trabalho do meu pai, que é analista de sistemas, e ficava jogando World of Warcraft do lado dele enquanto ele programava. Ver aquilo no dia a dia fez o gosto pela computação nascer de forma muito natural.
 
