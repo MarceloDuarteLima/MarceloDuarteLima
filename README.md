@@ -8,13 +8,27 @@
 
 # Marcelo Duarte Lima
 
+## 🇧🇷 Português
+
 **`Estudante de Ciência da Computação | Redes, Cibersegurança e Desenvolvimento`**
 
 Minha história com a tecnologia começou cedo. Sempre fui muito curioso. Quando criança, eu ia pro trabalho do meu pai, que é analista de sistemas, e ficava jogando World of Warcraft do lado dele enquanto ele programava. Ver aquilo no dia a dia fez o gosto pela computação nascer de forma muito natural.
 
-Essa curiosidade virou minha escolha de vida. Já fiz parte do curso de Redes de Computadores e hoje estou cursando Ciência da Computação.
+Essa curiosidade virou minha escolha de vida. Já fiz parte do curso de Redes de Computadores e hoje estou cursando Ciência da Computação. Tenho altas habilidades/superdotação, o que se reflete na minha facilidade para aprender conceitos novos rapidamente e na vontade constante de me aprofundar nos assuntos que me interessam.
 
 Meu objetivo é transformar essa paixão de infância em carreira, atuando na área de TI com foco em redes e cibersegurança, aplicando meu raciocínio lógico em desafios reais da área.
+
+---
+
+## 🇺🇸 English
+
+**`Computer Science Student | Networking, Cybersecurity and Development`**
+
+My journey with technology started early. I've always been very curious. As a kid, I would go to my father's workplace (he's a systems analyst) and play World of Warcraft next to him while he programmed. Seeing that every day made my passion for computing grow naturally.
+
+That curiosity became my path in life. I previously completed part of a Computer Networks program, and I'm currently pursuing a degree in Computer Science. I have high abilities (giftedness), which shows in how quickly I pick up new concepts and in my constant drive to dive deeper into the subjects that interest me.
+
+My goal is to turn that childhood passion into a career in IT, focusing on networking and cybersecurity, and to apply my logical reasoning to real-world challenges in the field.
 
 ---
 
@@ -23,7 +37,7 @@ Meu objetivo é transformar essa paixão de infância em carreira, atuando na á
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color=FFF)](https://mail.google.com/mail/?view=cm&to=marceloduartelima231@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/marceloduarte)
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias / Languages and Technologies
 
 <img alt="HTML" title="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
 <img alt="JavaScript" title="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
